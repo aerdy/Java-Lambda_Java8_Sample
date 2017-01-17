@@ -1,4 +1,6 @@
+![alt tag](http://connect.adfab.fr/wp-content/uploads/2016/12/NetBeans.svg_.png)
 # Lambda Java 8 
+
 
 ```
 private static void forData() {
