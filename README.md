@@ -1,4 +1,4 @@
-# Java-Lambda_Java8_Sample
+# Lambda Java 8 
 
 ```
 private static void forData() {
